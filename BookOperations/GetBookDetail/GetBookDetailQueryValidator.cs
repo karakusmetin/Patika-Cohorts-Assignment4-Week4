@@ -2,9 +2,9 @@
 
 namespace WebApi.BookOperations.GetBookDetail
 {
-	public class GetBookDetailCommandValidator : AbstractValidator<GetBookDetailQuery>
+	public class GetBookDetailQueryValidator : AbstractValidator<GetBookDetailQuery>
 	{
-		public GetBookDetailCommandValidator()
+		public GetBookDetailQueryValidator()
 		{
 			RuleFor(x=>x.BookID).GreaterThan(0);
 		}
