@@ -5,13 +5,13 @@ using WebApi.DbOperation;
 
 namespace WebApi.BookOperations.GetBookDetail
 {
-	public class GetBooksDetailQuery
+	public class GetBookDetailQuery
 	{
 		private readonly BookStoreDbContext _dbContext;
 		private readonly IMapper mapper;
 
 		public int BookID {  get; set; }
-		public GetBooksDetailQuery(BookStoreDbContext dbContext, IMapper mapper) 
+		public GetBookDetailQuery(BookStoreDbContext dbContext, IMapper mapper) 
 		{
 			_dbContext = dbContext;
 			this.mapper = mapper;
