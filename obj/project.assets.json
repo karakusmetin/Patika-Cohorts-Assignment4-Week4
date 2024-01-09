@@ -1189,11 +1189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fener\\Desktop\\Chorts Ödev\\WebApi-W4-2\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\fener\\Desktop\\Deneme\\BookStore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\fener\\Desktop\\Chorts Ödev\\WebApi-W4-2\\WebApi.csproj",
+      "projectPath": "C:\\Users\\fener\\Desktop\\Deneme\\BookStore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fener\\Desktop\\Chorts Ödev\\WebApi-W4-2\\obj\\",
+      "outputPath": "C:\\Users\\fener\\Desktop\\Deneme\\BookStore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",

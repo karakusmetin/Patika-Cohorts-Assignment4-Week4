@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNJmHq0HEaZ0y0bsieoewNxXdeBe1X50TWvMnTOdIw3PbMwbg+o7fXXQOcl7EVqwBwSMaahhuaY1yy0LHhtGcw==",
+  "dgSpecHash": "l4DmgvSif4IOw9CzjjZZYGmUeOg9UHxY3K/uERiLRPdSs4R7OsuuIZIHauXPRZMaFvZeQDSf3HjsKuhhmnDqtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fener\\Desktop\\Chorts Ödev\\WebApi-W4-2\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\fener\\Desktop\\Deneme\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fener\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fener\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
